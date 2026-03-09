@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend git folder (avoid nested git)
+backend/.git/
