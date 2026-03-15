@@ -1,4 +1,4 @@
-const BASE_URL = "https://ai-support-agent-production-e967.up.railway.app";
+const BASE_URL = "http://ai-support-agent-production-e967.up.railway.app";
 
 // Generate a random session ID for each new chat
 export function generateSessionId() {
