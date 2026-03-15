@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "ai-support-agent.railway.internal";
 
 // Generate a random session ID for each new chat
 export function generateSessionId() {
